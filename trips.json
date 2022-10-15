@@ -14,5 +14,13 @@
     "start_pos": "latlon",
     "end_pos": "latlon",
     "time": "datetime"
+  },
+  {
+    "trip_id": 2,
+    "driver_id": "guid",
+    "cost": "zl",
+    "start_pos": "latlon",
+    "end_pos": "latlon",
+    "time": "datetime"
   }
 ]
