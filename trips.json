@@ -3,24 +3,24 @@
     "trip_id": 0,
     "driver_id": "f5bac0a4-009e-4a3c-b909-45feb3b242f8",
     "cost": 44.23,
-    "start_pos": { lat: 54.480239, lng: 18.563661 },
-    "end_pos": { lat: 54.518863, lng: 18.555961 },
+    "start_pos": { "lat": 54.480239, "lng": 18.563661 },
+    "end_pos": { "lat": 54.518863, "lng": 18.555961 },
     "time": 1665922134436
   },
   {
     "trip_id": 1,
     "driver_id": "97b758c5-cdb9-43f9-a7f2-852aef4cb42e",
     "cost": 19.54,
-    "start_pos": { lat: 54.441021, lng: 18.563883 },
-    "end_pos": { lat: 54.455941, lng: 18.559089 },
+    "start_pos": { "lat": 54.441021, "lng": 18.563883 },
+    "end_pos": { "lat": 54.455941, "lng": 18.559089 },
     "time": 1652133600000
   },
   {
     "trip_id": 2,
     "driver_id": "322af3cd-6c57-4e5a-b014-cee53cbc839b",
     "cost": 33.94,
-    "start_pos": { lat: 54.449908, lng: 18.554523 },
-    "end_pos": { lat: 54.474644, lng: 18.468651 },
+    "start_pos": { "lat": 54.449908, "lng": 18.554523 },
+    "end_pos": { "lat": 54.474644, "lng": 18.468651 },
     "time": 1599256800000
   }
 ]
